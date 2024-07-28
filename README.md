@@ -1,0 +1,1 @@
+Criei uma IA facil de interagir que calcula o score de clientes de um banco, apenas se precisa colocar um arquivo chamado "novos_clientes" na pasta "dados", com todas as informações do cliente, após executar o programa, ele cria um novo arquivo ja com o score dos clientes
